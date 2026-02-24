@@ -29,6 +29,7 @@ and how many units Northwind has in stock.
 */
 
 /
+
 *2.	
 List the product name and units in stock for products where UnitsInStock equals zero.
 */
